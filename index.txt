@@ -81,16 +81,16 @@
         <img src="/lovez-love-heart.jpeg" alt="Heart Background">
     </div>
     <div class="buttons">
-        <button class="link-button"><a href="https://lovez.love">Lovez.Love</a></button>
+        <button class="link-button"><a href="https://pump.fun/coin/4K8qVqP6hEH6sWsLXj8WyvDd5pELbDQuXxJWfvaDpump">Lovez on Pump.Fun</a></button>
         <button class="link-button"><a href="https://x.com/LovezPump">Twitter/ X</a></button>
         <!-- Add more buttons as needed -->
     </div>
     <div class="content">
         <h1 class="title">Welcome to Lovez.Love</h1>
         <p>Experience the magic of love with our unique platform. Here, art and emotion intertwine to create a space where every visit feels like a heartbeat of love. Discover, connect, and celebrate love in all its forms.</p>
-	<p>But first... Some Pump.fun :)</p>
+	<p>But first... Some Pump.fun :)<br>
+	https://pump.fun/coin/4K8qVqP6hEH6sWsLXj8WyvDd5pELbDQuXxJWfvaDpump
+	</p>
     </div>
-	<div style="clear:both;"></div>
-<iframe src=”https://pump.fun/coin/4K8qVqP6hEH6sWsLXj8WyvDd5pELbDQuXxJWfvaDpump” width=”90%” height=”100%″ name=”Lovez” title=”Lovez Pump Fun”></iframe>
 </body>
 </html>
